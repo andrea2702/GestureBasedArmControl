@@ -21,6 +21,7 @@ pip install -r requirements.txt
 
 ## Usage
 Run the hand arm control node:
+
 rosrun GestureBasedArmControl main.py
 
 ## Demo
